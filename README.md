@@ -1,2 +1,2 @@
 # RecoVR
-Repo for RecoVR, developed as part of my undergraduate honors thesis for Dartmouth College during June-November 2022.
+Repo for RecoVR, developed as part of my undergraduate honors thesis at Thayer School of Engineering, Dartmouth College during June-November 2022.
